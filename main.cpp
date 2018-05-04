@@ -7,6 +7,8 @@ using std::endl;
 //using namespace std;
 
 int Triangulos();
+int Circulos();
+int Recursiva();
 
 int main(){
     int opcion;
@@ -27,6 +29,11 @@ int main(){
     }
    return 0;
 
+}
+
+int Circulos(){
+}
+int Recursivas(){
 }
 
 int Triangulos(){
