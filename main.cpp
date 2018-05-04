@@ -108,5 +108,9 @@ int Triangulos(){
    return 0;
 }
    if( Cang1_1== null || Cang1_2==null){
+      int a = ang1_1 + ang1_2;
+      int angnuevo = 180-a;
+      cout << Cang1_3 << "=" << angnuevo << endl;
+   }else if( Cang1_1   ){
 
    }
