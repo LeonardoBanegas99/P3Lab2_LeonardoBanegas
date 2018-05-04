@@ -107,6 +107,6 @@ int Triangulos(){
    
    return 0;
 }
-   if(){
+   if( Cang1_1== null || Cang1_2==null){
 
    }
